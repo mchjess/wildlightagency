@@ -71,7 +71,7 @@
       /* border: 1px solid var(--line); */
       background: rgba(0,0,0,0.35);
       backdrop-filter: blur(10px);
-      border-radius: var(--radius);
+      /* border-radius: var(--radius); */
       padding: clamp(18px, 2.6vw, 26px);
     }
 
@@ -103,9 +103,8 @@
       gap: 8px;
       align-items:center;
       padding: 6px 10px;
-      border-radius: 999px;
+      /*border-radius: 999px; */
       background: rgba(255,255,255,0.06);
-      border: 1px solid rgba(255,255,255,0.10);
       color: var(--text);
       white-space: nowrap;
     }
