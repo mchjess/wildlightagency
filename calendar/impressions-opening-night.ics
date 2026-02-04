@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Wild Light Arts//Impressions Opening Night//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:impressions-opening-night-2026@wildlightarts.com.au
+DTSTAMP:20260201T000000Z
+DTSTART:20260306T070000Z
+DTEND:20260306T090000Z
+SUMMARY:Impressions — Opening Night
+DESCRIPTION:Opening night for Impressions, a solo exhibition by Jessica Lee.
+LOCATION:Braidwood Regional Arts Gallery, Braidwood NSW
+END:VEVENT
+END:VCALENDAR

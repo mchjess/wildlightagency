@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Wild Light Arts//Impressions Exhibition//EN
+PRODID:-//Wild Light Arts//Impressions Exhibition Dates//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:impressions-2026@wildlightarts.com
+UID:impressions-exhibition-dates-2026@wildlightarts.com.au
 DTSTAMP:20260201T000000Z
 DTSTART:20260306T080000Z
 DTEND:20260308T070000Z
 SUMMARY:Impressions — Exhibition
-DESCRIPTION:Artist Jessica Lee shares true-to-life process-based frottage works from living trees.\nBraidwood NSW.
+DESCRIPTION:Solo exhibition by Jessica Lee. Process-based frottage works from living trees.
 LOCATION:Braidwood Regional Arts Gallery, Braidwood NSW
 END:VEVENT
 END:VCALENDAR
