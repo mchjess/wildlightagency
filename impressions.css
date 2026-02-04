@@ -157,9 +157,7 @@
       grid-template-columns: 1fr;
       gap: var(--gap);
     }
-    @media (min-width: 820px){
-      .grid-2{ grid-template-columns: 1fr 1fr; }
-    }
+   
 
     .calendar-cta {
   margin: 3rem 0;
