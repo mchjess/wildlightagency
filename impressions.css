@@ -10,7 +10,7 @@
 
       --radius: 16px;
       --max: 980px;
-      --pad: clamp(18px, 3vw, 28px);
+      --pad: clamp(16px, 4vw, 28px);
       --gap: clamp(14px, 2.4vw, 22px);
     }
 
