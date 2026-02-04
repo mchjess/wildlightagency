@@ -201,7 +201,7 @@
     .video-wrapper {
   position: relative;
   width: 100%;
-  max-width: 900px;      /* adjust to taste */
+  max-width: 720px;      /* adjust to taste */
   margin: 3rem auto;    /* gives it breathing room */
   aspect-ratio: 16 / 9;
 }
