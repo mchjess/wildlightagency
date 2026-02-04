@@ -260,33 +260,17 @@
   }
 }
 
-    /* Video */
+ Video 
     .video{
       width: 100%;
       border-radius: 14px;
       border: 1px solid rgba(255,255,255,0.14);
       background: rgba(0,0,0,0.25);
-    }
-
-    /*
-    .video-wrapper {
-  position: relative;
-  width: 100%;
-  max-width: 720px;      adjust to taste
-  margin: 3rem auto;    gives it breathing room 
-  aspect-ratio: 16 / 9;
-}
-
-.video-wrapper iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-  */
+    } 
 
 .video-wrapper {
   width: 100%;
-  max-width: 960px;     /* adjust to taste */
+  max-width: 900px;     /* adjust to taste */
   margin: 1.5rem auto;  /* centers + gives breathing room */
   aspect-ratio: 16 / 9; /* modern responsive */
 }
