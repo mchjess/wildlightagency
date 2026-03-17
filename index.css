@@ -1,0 +1,43 @@
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+      background: url('./images/Web\ Banner\ Not\ text\ 5.png') center/cover no-repeat;
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(0,0,0,0.25);
+    }
+
+    .content {
+      position: relative;
+      z-index: 1;
+      padding: 20px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.5rem, 8vw, 5rem);
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      font-weight: 300;
+    }
+
+    p {
+      margin-top: 12px;
+      font-size: 1rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      opacity: 0.9;
+    }
+  
